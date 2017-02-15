@@ -1,4 +1,4 @@
-# comment
+﻿# comment
 
 """
 comments
@@ -260,4 +260,5 @@ False
 >>> a = int(a) if type(a) is str else 0
 >>> a
 789
->>> 
+>>> b = (1, 2, 3)
+c = b
